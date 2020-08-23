@@ -1,4 +1,4 @@
-Hi, my name is Gisele!
+Hi, my name is Gisele! :purple_heart:
 
 <!--
 **giselegomes/giselegomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
