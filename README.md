@@ -1,6 +1,6 @@
 ✨ Olá, meu nome é Gisele e eu sou desenvolvedora Front-end! ✨
 
-:purple_heart: busco sempre desenvolver aplicações acessíveis e responsivas <br>
+:purple_heart: busco desenvolver aplicações acessíveis e responsivas <br>
 :green_heart: foco de estudos no vue.js <br>
 :woman_student: cursando análise e desenvolvimento de sistemas na UFPR <br>
 :tomato: se eu estiver codando, provavelmente estarei usando o pomodoro e escutando Lo-fi.
